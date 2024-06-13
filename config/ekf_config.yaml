@@ -1,6 +1,6 @@
 ekf_filter_node:
   ros__parameters:
-    use_sim_time: true
+    use_sim_time: false
     two_d_mode: true
     map_frame: "map"
     odom_frame: "odom"
